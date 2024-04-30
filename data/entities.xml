@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entities>
+    <players>
+        <entry>
+            <name>Hans</name>
+            <ini>8</ini>
+        </entry>
+        <entry>
+            <name>Peter</name>
+            <ini>14</ini>
+        </entry>
+    </players>
+    <npcs>
+        <entry>
+            <name>Orc</name>
+            <ini>6</ini>
+        </entry>
+    </npcs>
+</entities>
